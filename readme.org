@@ -1,0 +1,8 @@
+** Howdy 🤠
+*** Here's some things I like:
+- 𝝺 Functional programming & lisps (Haskell, Fennel)
+- 💻 Low-level languages (Zig, Rust, C)
+- 🐍 Whatever's needed to get the job done (Python, Lua, Golang)
+*** I'm learning about
+- → Programming language theory
+- ⏚ Embedded development & design
